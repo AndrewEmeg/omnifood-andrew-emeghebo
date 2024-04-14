@@ -23,6 +23,7 @@
 ## Demo
 
 [Check out the live website here.](omnifood-andrew-emeghebo.netlify.app)
+omnifood-andrew-emeghebo.netlify.app
 
 ## Screenshot from the project
 
