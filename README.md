@@ -23,8 +23,7 @@
 ## Demo
 
 [Check out the live website here.](https://omnifood-andrew-emeghebo.netlify.app)
-If the above link doesn't work, copy the url below and paste directly into your browser.
-omnifood-andrew-emeghebo.netlify.app
+
 
 ## Screenshot from the project
 
